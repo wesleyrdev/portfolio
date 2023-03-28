@@ -120,25 +120,6 @@ body {
     font-weight: 400;
 }
 
-@media (max-width: 700px) {
-    
-    .cabecalho {
-        padding: 5%;
-    }
-    
-    .cabecalho__menu{
-        justify-content: center;
-    }
-    
-    .apresentacao{
-        flex-direction: column-reverse;
-        padding: auto;
-    }
-    .apresentacao__conteudo {
-        width: auto;
-    }
-}
-
 @media (max-width: 1200px) {
     
     .cabecalho {
